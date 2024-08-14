@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm muhammetakkan</h1>
+<h1 align="center">Hi 👋, I'm MuhammetAkkan</h1>
 <h3 align="center">A passionate .Net Developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Asp.Net Core MVC && Clean Arch. with C#**
