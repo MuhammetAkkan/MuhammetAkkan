@@ -49,7 +49,7 @@
  
   <p align="center">
   <a>
-    <img heigth="160" align="right" width="182" src="https://media.tenor.com/NwY5ppxLs_oAAAAM/kitten-keybo.gif">
+    <img heigth="160" align="right" width="250" src="https://media.tenor.com/NwY5ppxLs_oAAAAM/kitten-keybo.gif">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammetAkkan&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Muhammet Akkan" />
   </a>
 </p>
