@@ -7,7 +7,7 @@
 </div>
 <br />
 
-br />
+<br />
 
 <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Coding" width="240" height="240" align="right" id="gif">
 
