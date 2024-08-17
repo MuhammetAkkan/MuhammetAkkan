@@ -7,13 +7,6 @@
 </div>
 <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Coding" width="250" height="250" align="right" id="gif">
 
-<script>
-    const gif = document.getElementById('gif');
-    gif.addEventListener('load', function() {
-        gif.src = gif.src; // Bu satır, GIF'in hemen oynamasını sağlar
-    });
-</script>
-
 
 <h3 align="left">&nbsp; A passionate Web Backend developer from Türkiye</h3>
 
