@@ -17,11 +17,24 @@
 - 💬 Ask me about **SQL Server && PostgreSQL**
 
 - 📫 How to reach me **muhammettakkann@gmail.com**
+<!-- 
+Ekstra Tools Area
+--!>
+<p align="left">
+  <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://linkedin.com/in/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="çağatay akkaş" height="30" width="40" /></a>
+<a href="https://medium.com/@cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagatayakkas" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/çağatay akkaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="çağatay akkaş" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/cagatayakkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cagatayakkas" height="30" width="40" /></a>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+</p>
 
 <!--
 <details>
   <summary>:zap: GitHub Stats</summary> 
 -->
+
+
 # 💻 Languages and Tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
