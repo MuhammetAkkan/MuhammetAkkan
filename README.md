@@ -5,8 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%f0%9f%91%89+Muhammet+Akkan+%f0%9f%91%88;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
  </a>
 </div>
-<br/>
-br/>
+<br />
+
+br />
+
 <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Coding" width="240" height="240" align="right" id="gif">
 
 
@@ -63,11 +65,6 @@ Ekstra Tools Area
 
   
 <br />
-    
- <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&layout=compact&langs_count=25&title_color=0000ee&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/CagatayAkkas/github-readme-stats)
--->
-
 
 <br />
 
