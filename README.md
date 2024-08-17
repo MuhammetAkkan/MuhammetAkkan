@@ -9,7 +9,9 @@
 
 <script>
     const gif = document.getElementById('gif');
-    gif.src = gif.src; // Bu satır, GIF'in baştan oynamasını sağlar
+    gif.addEventListener('load', function() {
+        gif.src = gif.src; // Bu satır, GIF'in hemen oynamasını sağlar
+    });
 </script>
 
 
