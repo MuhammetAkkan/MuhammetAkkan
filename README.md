@@ -12,7 +12,7 @@
 - 🔭 Frontend tarafında **Next.js, TailwindCSS, RTK Query ve shadcn/ui** kullanarak modern ve kullanıcı odaklı arayüzler geliştiriyorum.
 - ⚙️ **Redis, RabbitMQ ve Hangfire** gibi araçlarla yüksek performanslı çözümler üretiyorum.
 - 📊 ERP sistemlerinde süreç geliştirme yapıyor ve **Metabase** ile veri odaklı dashboard'lar hazırlıyorum.
-- 📱 Mobil tarafta **Flutter** ile geliştirme deneyimine sahibim.
+- 📱 Mobil tarafta **Flutter** ile geliştirme yapabiliyorum.
 - 📫 İletişim: **muhammettakkann@gmail.com**
 
 <br/>
@@ -39,14 +39,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <a href="https://github.com/muhammetakkan">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhammetakkan&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Muhammet Akkan GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/muhammetakkan">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetakkan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-  </a>
-</div>
