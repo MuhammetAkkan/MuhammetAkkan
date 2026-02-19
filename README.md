@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=500&lines=Muhammet+Akkan;Master+Computer+Engineer;Full-Stack+.NET+%26+Next.js;Welcome+To+My+Profile" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Full-Stack Developer | .NET & Next.js Enthusiast</h3>
+<h3 align="center">🚀 Full-Stack Developer | .NET & Next.js Dev</h3>
 
 <br/>
 
